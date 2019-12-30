@@ -5,3 +5,5 @@ express
 mongoose
 multer
 nodemon
+socket.io
+cors
