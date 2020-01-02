@@ -7,3 +7,4 @@ multer
 nodemon
 socket.io
 cors
+axios
